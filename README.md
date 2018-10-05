@@ -1,4 +1,4 @@
-## Automated Testing Tool
+Automated Testing Tool
 ====================
 
 Made in C# an automated testing tool that needs you to mention steps that needs to be taken,once the steps are given it starts working.
